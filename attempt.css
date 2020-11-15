@@ -6,6 +6,9 @@ body {
 }
 h1 {
     color: darkred; 
+    font-family: 'Amatic SC', cursive; 
+    font-size: 45px;
+    font-weight: 700;
     }
 h2 {color: darkslategrey}
 img {
@@ -13,3 +16,17 @@ img {
   width: auto;
   height: auto;
 }
+h2 {
+    font-family: 'Amatic SC', cursive; 
+    font-size: 38px;
+    font-weight: 700;
+}
+h3 {color: 
+    
+}
+h3 {
+    font-family: 'Amatic SC', cursive; 
+    font-size: 30px;
+    font-weight: 400;  
+}
+
