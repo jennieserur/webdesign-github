@@ -37,3 +37,20 @@ div {
     max-width: 800px;
     margin: auto;
 }
+
+.cta {
+  background: beige;
+    font-size: 21px;
+    text-align: center;
+    padding: 20px;
+}
+.cta h3 {
+    color: black;
+}
+
+.button {
+    background: #08c;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px;
+}
