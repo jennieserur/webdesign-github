@@ -54,3 +54,14 @@ div {
     text-decoration: none;
     padding: 14px;
 }
+
+.news {
+  background: url(img/bg2.jpg);
+    background position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 60px;
+}
+.news {
+    
+}
